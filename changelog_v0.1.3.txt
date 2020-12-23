@@ -149,5 +149,3 @@ Planned (to do) :
 	+	all golden armor items (what you see in the inventory and not on the skin) = chocolate armor
 	+	entire GUI = chocolaty GUI
 (	+	anyone ideas?)
-	-
-	->
