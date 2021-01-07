@@ -18,21 +18,16 @@
 
 ### B: Download All Files             
     
-   1.  Make sure you are on 
-   https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/
+   1.  Click on this [download link](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/archive/main.zip)
    
-   2.  Click on "Code"
+   2a The file (*Frelindo-s-Food-Texture-Pack-main.zip*) will be located in your download folder
    
-   3.  Click on "Download"
-   
-   4a. The file (*Frelindo-s-Food-Texture-Pack-main.zip*) will be located in your download folder
-   
-   4b. The texture pack will be located in 
+   2b The texture pack will be located in 
 *Frelindo-s-Food-Texture-Pack-main.zip/Frelindo-s-Food-Texture-Pack-main/§6Food§r Texture Pack §8§o1.16, Java v0.1.3.zip*
 
    You have to unzip the first folder to move the texture pack 
           (On Windows: Right-click the first folder (the one in your download folder), then click _Extract All_, then click _Extract_)
             
-   5.  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
+   3  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
    
-   ATTENTION! The texture pack is not the file from step 4a! The texture pack is the file from step 4b
+   ATTENTION! The texture pack is not the file from step 4a! The texture pack is the file from step 2b
