@@ -30,7 +30,7 @@
             
    3.  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
    
-   ATTENTION! The texture pack is not the file from step 4a! The texture pack is the file from step 2b
+   ATTENTION! The texture pack is not the file from step 2a! The texture pack is the file from step 2b
 
 
 # [Changelogs](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/blob/main/changelog_v0.1.3.txt)
