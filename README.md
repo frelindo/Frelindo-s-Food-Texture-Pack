@@ -5,9 +5,9 @@
  
  ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
  
-## How to Download this Texturepack
+# How to download this texturecpack
  
-    A: Download texture pack only (Recommended):
+### A: Download texture pack only (Recommended)
 
    1.  Click this [download link](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/blob/main/%C2%A76Food%C2%A7r%20Texture%20Pack%20%C2%A78%C2%A7o1.16,%20Java%20v0.1.3.zip?raw=true)
    
@@ -16,7 +16,7 @@
    3.  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
    
 
-    B: Download All Files:                     
+### B: Download All Files             
     
    1.  Make sure you are on 
    https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/
