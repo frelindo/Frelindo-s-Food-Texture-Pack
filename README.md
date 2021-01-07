@@ -5,7 +5,7 @@
  
  ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
  
-# How to download this texturecpack
+# How to download this texturepack
  
 ### A: Download texture pack only (Recommended)
 
