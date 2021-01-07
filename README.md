@@ -1,7 +1,7 @@
 # Frelindos-Food-Texture-Pack
  Here you can download the latest (alpha) version of the Frelindo's Food Texture Pack with files for editing, like gimp or aseprite files.
  FILES NOT CLEANED UP! Also contains less important files!
- Here you can also download the cleaned up texture pack: https://www.planetminecraft.com/texture-pack/frelindo-s-food-texture-pack/
+ [Here](https://www.planetminecraft.com/texture-pack/frelindo-s-food-texture-pack/) you can also download the cleaned up texture pack on Planet Minecraft
  
  ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
  
@@ -13,10 +13,7 @@
    
    2.  The texture pack will be located in your download folder
    
-   3.  Follow the steps on
-   Windows: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows
-   Mac: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X
-   Linux: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux
+   3.  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
    
 
     B: Download All Files:                     
@@ -35,9 +32,6 @@ Frelindo-s-Food-Texture-Pack-main.zip/Frelindo-s-Food-Texture-Pack-main/§6Food�
         You have to unzip the first folder to move the texture pack 
           (On Windows: Right-click the first folder (the one in your download folder), then click _Extract All_, then click _Extract_)
             
-   5.  Follow the steps on  
-   Windows: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows
-   Mac: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X
-   Linux: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux
+   5.  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
    
    ATTENTION! The texture pack is not the file from step 4a! The texture pack is the file from step 4b
