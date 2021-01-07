@@ -23,7 +23,7 @@
    2a The file (*Frelindo-s-Food-Texture-Pack-main.zip*) will be located in your download folder
    
    2b The texture pack will be located in 
-*Frelindo-s-Food-Texture-Pack-main.zip/Frelindo-s-Food-Texture-Pack-main/§6Food§r Texture Pack §8§o1.16, Java v0.1.3.zip*
+*Frelindo-s-Food-Texture-Pack-main.zip/Frelindo-s-Food-Texture-Pack-main/§6Food§r Texture Pack §8§o*[MC version]*, Java v*[texture pack version]*.zip*
 
    You have to unzip the first folder to move the texture pack 
           (On Windows: Right-click the first folder (the one in your download folder), then click _Extract All_, then click _Extract_)
