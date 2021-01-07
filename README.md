@@ -3,7 +3,6 @@
  FILES NOT CLEANED UP! Also contains less important files!
  [Here](https://www.planetminecraft.com/texture-pack/frelindo-s-food-texture-pack/) you can also download the cleaned up texture pack on Planet Minecraft
  
- ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
  
 # How to download this texturepack
  
