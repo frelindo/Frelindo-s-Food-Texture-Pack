@@ -19,8 +19,6 @@
    Mac: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X
    Linux: https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux
 
-
-
         B: Download All Files:
     
    1.  Make sure you are on 
