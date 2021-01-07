@@ -26,7 +26,7 @@
 *Frelindo-s-Food-Texture-Pack-main.zip/Frelindo-s-Food-Texture-Pack-main/§6Food§r Texture Pack §8§o*[MC version]*, Java v*[texture pack version]*.zip*
 
    You have to unzip the first .zip file (the one in your download folder) to be able to move the texture pack 
-          (On Windows: Right-click the -zip file, then click *Extract All*, then click *Extract*)
+          (On Windows: Right-click the .zip file, then click *Extract All*, then click *Extract*)
             
    3.  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
    
