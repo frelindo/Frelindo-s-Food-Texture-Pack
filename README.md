@@ -9,8 +9,7 @@
  
     A: Download texture pack only (Recommended):
 
-   1.  Go to:
-   https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/blob/main/%C2%A76Food%C2%A7r%20Texture%20Pack%20%C2%A78%C2%A7o1.16,%20Java%20v0.1.3.zip?raw=true
+   1.  Click this [download link](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/blob/main/%C2%A76Food%C2%A7r%20Texture%20Pack%20%C2%A78%C2%A7o1.16,%20Java%20v0.1.3.zip?raw=true)
    
    2.  The texture pack will be located in your download folder
    
