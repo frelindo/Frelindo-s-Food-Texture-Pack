@@ -29,7 +29,8 @@
    
    4b. The texture pack will be located in 
 *Frelindo-s-Food-Texture-Pack-main.zip/Frelindo-s-Food-Texture-Pack-main/§6Food§r Texture Pack §8§o1.16, Java v0.1.3.zip*
-        You have to unzip the first folder to move the texture pack 
+
+   You have to unzip the first folder to move the texture pack 
           (On Windows: Right-click the first folder (the one in your download folder), then click _Extract All_, then click _Extract_)
             
    5.  Follow the steps for [Windows](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Windows) / [Mac](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Mac-OS-X) / [Linux](https://www.wikihow.com/Download-a-Texture-Pack-in-Minecraft#Installing-in-Linux)
