@@ -19,7 +19,7 @@
 
 #### B: Download All Files             
     
-   1.  Click on this [download link](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/archive)
+   1.  Click on this [download link](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/archive/main.zip)
    
    2a. The file (*Frelindo-s-Food-Texture-Pack-main.zip*) will be located in your download folder
    
