@@ -21,7 +21,7 @@
     
    1.  Click on this [download link](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/archive/main.zip)
    
-   2a. The file (*Frelindo-s-Food-Texture-Pack-main.zip*) will be located in your download folder
+   2a. The file (*Frelindo-s-Food-Texture-Pack-*[branch]*.zip*) will be located in your download folder
    
    2b. The texture pack will be located inside 
 *Frelindo-s-Food-Texture-Pack-main.zip/Frelindo-s-Food-Texture-Pack-main/§6Food§r Texture Pack §8§o*[MC version]*, Java.zip*
