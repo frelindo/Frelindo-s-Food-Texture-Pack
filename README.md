@@ -33,4 +33,4 @@
    ATTENTION! The texture pack is not the file from step 2a! The texture pack is the file from step 2b
 
 
-## [Changelogs](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/compare/0.1.3...main)
+## [Changelogs](https://github.com/frelindo/Frelindo-s-Food-Texture-Pack/compare/0.1.3...main#files_bucket)
